@@ -1,8 +1,9 @@
 # Airline_Passenger_Satisfaction_Analysis_PowerBI
 
-Link to Live [Dashboard](https://sites.google.com/view/rajendra-kumar-oram/projects/operations/airline-passenger-satisfaction?authuser=0)
+* Link to Live [Dashboard](https://sites.google.com/view/rajendra-kumar-oram/projects/operations/airline-passenger-satisfaction?authuser=0)
+* Link to the [challenge](https://www.mavenanalytics.io/data-playground)
 
-#Problem Statement:
+# Problem Statement
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as 
 their evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
